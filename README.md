@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huy7684&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=FF0080&point=ffffff&area=true" width="95%" />
+  <img src="https://ghchart.rshah.org/00F7FF/Huy7684" width="95%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:FF0080&height=120&section=footer" width="100%"/>
