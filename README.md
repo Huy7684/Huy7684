@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://t.me/noobbuildxyz">
-    <img src="https://img.shields.io/badge/Telegram-GROUP%20NAME-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Telegram-%20NoobBuild-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="https://t.me/HiSiuDz">
     <img src="https://img.shields.io/badge/Contact%20Me-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
