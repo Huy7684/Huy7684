@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://hits.sh/github.com/Huy7684.svg?style=for-the-badge&label=Profile%20Views&color=B388FF&labelColor=2b2140" />
   <img src="https://img.shields.io/github/followers/Huy7684?style=for-the-badge&logo=github&color=FF6FB5&labelColor=2b2140" />
-  <img src="https://img.shields.io/github/stars/Huy7684?style=for-the-badge&logo=github&color=6EC6FF&labelColor=2b2140" />
   <img src="https://img.shields.io/badge/Made%20in-Vietnam-DA251D?style=for-the-badge&labelColor=2b2140" />
 </p>
 
@@ -23,9 +22,9 @@
   <a href="https://t.me/HiSiuDz"><img src="https://img.shields.io/badge/Contact_Me-@HiSiuDz-FF6FB5?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b2140" /></a>
 </p>
 
-<br>
+<p align="center">✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦</p>
 
-## 🌸 Character Status
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FB5,100:B388FF&height=64&section=header&text=Character+Status&fontSize=26&fontColor=ffffff&fontAlignY=58" alt="Character Status" /></p>
 
 ```text
 ╔══════════════════════════════════════════════╗
@@ -42,9 +41,9 @@
 ╚══════════════════════════════════════════════╝
 ```
 
-<br>
+<p align="center">✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦</p>
 
-## ⚔️ Quest Log
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FB5,100:B388FF&height=64&section=header&text=Quest+Log&fontSize=26&fontColor=ffffff&fontAlignY=58" alt="Quest Log" /></p>
 
 ```mermaid
 flowchart LR
@@ -60,9 +59,9 @@ flowchart LR
     style G fill:#6EC6FF,stroke:#a6dcff,color:#fff
 ```
 
-<br>
+<p align="center">✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦</p>
 
-## ✨ Skills
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FB5,100:B388FF&height=64&section=header&text=Skills&fontSize=26&fontColor=ffffff&fontAlignY=58" alt="Skills" /></p>
 
 <table align="center">
   <tr>
@@ -81,9 +80,9 @@ flowchart LR
   </tr>
 </table>
 
-<br>
+<p align="center">✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦</p>
 
-## 🎒 Inventory
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FB5,100:B388FF&height=64&section=header&text=Inventory&fontSize=26&fontColor=ffffff&fontAlignY=58" alt="Inventory" /></p>
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -115,20 +114,9 @@ flowchart LR
 </p>
 </details>
 
-<br>
+<p align="center">✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦</p>
 
-## 📊 Battle Record
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huy7684&show_icons=true&hide_border=true&bg_color=1a1226&title_color=FF9ECD&icon_color=B388FF&text_color=e8def8&ring_color=FF6FB5&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Huy7684&show_icons=true&hide_border=true&bg_color=fff5fa&title_color=D63384&icon_color=8e5be8&text_color=3b2a4a&ring_color=D63384&include_all_commits=true" height="170" alt="stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huy7684&layout=donut-vertical&hide_border=true&bg_color=1a1226&title_color=FF9ECD&text_color=e8def8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huy7684&layout=donut-vertical&hide_border=true&bg_color=fff5fa&title_color=D63384&text_color=3b2a4a" height="170" alt="top langs" />
-  </picture>
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FB5,100:B388FF&height=64&section=header&text=Battle+Record&fontSize=26&fontColor=ffffff&fontAlignY=58" alt="Battle Record" /></p>
 
 <p align="center">
   <picture>
@@ -138,20 +126,10 @@ flowchart LR
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Huy7684&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=6">
-    <img src="https://github-profile-trophy.vercel.app/?username=Huy7684&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=6" alt="trophies" />
-  </picture>
+  <img src="https://ghchart.rshah.org/FF6FB5/Huy7684" width="95%" alt="contributions" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Huy7684&bg_color=1a1226&color=FF9ECD&line=B388FF&point=FF6FB5&area=true&area_color=B388FF&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huy7684&bg_color=fff5fa&color=D63384&line=8e5be8&point=3b2a4a&area=true&area_color=FF6FB5&hide_border=true" width="95%" alt="activity" />
-  </picture>
-</p>
-
-<br>
+<p align="center">✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦</p>
 
 <p align="center">
   <b>頑張って！ Ganbatte!</b> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧<br>
