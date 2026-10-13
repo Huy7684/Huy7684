@@ -1,61 +1,68 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:7B2FF7,100:FF0080&height=280&section=header&text=HiSiuDz&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Android%20ROM%20Tinkerer%20%E2%80%A2%20Linux%20Nerd%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6EC6FF&height=260&section=header&text=HiSiuDz&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A6%20Android%20ROM%20Tinkerer%20%E2%80%A2%20Linux%20Nerd%20%E2%80%A2%20Open%20Source%20%E2%9C%A6&descAlignY=58&descSize=20" width="100%"/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+HiSiuDz+%F0%9F%91%BE;%24+repo+sync+-j8+%E2%86%92+syncing+the+universe;%24+lunch+lineage_device-userdebug;%24+brunch+%E2%86%92+it+builds%2C+ship+it+%F0%9F%9A%80;%24+echo+%22I+turn+coffee+into+code%22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=7B2FF7&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+HiSiuDz+%F0%9F%91%BE;%24+repo+sync+-j8+%E2%86%92+syncing+the+universe;%24+lunch+lineage_device-userdebug;%24+brunch+%E2%86%92+it+builds%2C+ship+it+%F0%9F%9A%80;%24+echo+%22I+turn+coffee+into+code%22" alt="typing intro" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=FF9ECD&center=true&vCenter=true&width=720&height=50&lines=Konnichiwa%21+I%27m+HiSiuDz+%28%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Android+ROM+Tinkerer+%E2%9C%A6+Linux+Nerd;Powered+by+coffee+%26+anime+%E2%98%95%F0%9F%8D%A5;Let%27s+build+something+cool+%D9%A9%28%E2%97%95%E2%80%BF%E2%97%95%29%DB%B6">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=D63384&center=true&vCenter=true&width=720&height=50&lines=Konnichiwa%21+I%27m+HiSiuDz+%28%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Android+ROM+Tinkerer+%E2%9C%A6+Linux+Nerd;Powered+by+coffee+%26+anime+%E2%98%95%F0%9F%8D%A5;Let%27s+build+something+cool+%D9%A9%28%E2%97%95%E2%80%BF%E2%97%95%29%DB%B6" alt="typing intro" />
   </picture>
 </p>
 
+<!-- Muốn thêm ảnh/gif anime của bạn: bỏ comment dòng dưới và thay link ảnh
+<p align="center"><img src="LINK_ANH_ANIME_CUA_BAN" width="320" /></p>
+-->
+
 <p align="center">
-  <img src="https://hits.sh/github.com/Huy7684.svg?style=for-the-badge&label=Profile%20Views&color=7B2FF7&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/Huy7684?style=for-the-badge&logo=github&color=00A8B5&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/Huy7684?style=for-the-badge&logo=github&color=FF0080&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Made%20in-Vietnam-DA251D?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://hits.sh/github.com/Huy7684.svg?style=for-the-badge&label=Profile%20Views&color=B388FF&labelColor=2b2140" />
+  <img src="https://img.shields.io/github/followers/Huy7684?style=for-the-badge&logo=github&color=FF6FB5&labelColor=2b2140" />
+  <img src="https://img.shields.io/github/stars/Huy7684?style=for-the-badge&logo=github&color=6EC6FF&labelColor=2b2140" />
+  <img src="https://img.shields.io/badge/Made%20in-Vietnam-DA251D?style=for-the-badge&labelColor=2b2140" />
 </p>
 
 <p align="center">
-  <a href="https://t.me/noobbuildxyz"><img src="https://img.shields.io/badge/Telegram-NoobBuild_Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://t.me/HiSiuDz"><img src="https://img.shields.io/badge/Contact_Me-@HiSiuDz-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://t.me/noobbuildxyz"><img src="https://img.shields.io/badge/Telegram-NoobBuild_Guild-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b2140" /></a>
+  <a href="https://t.me/HiSiuDz"><img src="https://img.shields.io/badge/Contact_Me-@HiSiuDz-FF6FB5?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b2140" /></a>
 </p>
 
 <br>
 
-## 👾 `neofetch`
+## 🌸 Character Status
 
 ```text
-        .--.           HiSiuDz@github
-       |o_o |          ─────────────────────────────
-       |:_/ |          Location : Vietnam 🇻🇳
-      //   \ \         Focus    : Android ROM / device trees
-     (|     | )        Digging  : Linux & Android internals, C++
-    /'\_   _/`\        Shell    : bash / zsh
-    \___)=(___/        Editor   : VS Code, vim
-                       Fuel     : coffee ☕ (unlimited)
-                       Motto    : build. break. fix. repeat.
+╔══════════════════════════════════════════════╗
+║   ✦ ═══════  S T A T U S  ═══════ ✦          ║
+╠══════════════════════════════════════════════╣
+║  Name    : HiSiuDz                           ║
+║  Title   : 「Android ROM Tinkerer」           ║
+║  Origin  : Vietnam 🇻🇳                        ║
+║  Class   : ROM Dev / Linux Nerd              ║
+║  Guild   : NoobBuild (Telegram)              ║
+║  Weapons : C · C++ · Bash · Python           ║
+║  Passive : Turns coffee into code ☕          ║
+║  Mood    : (ᵔᴥᵔ) ready to build              ║
+╚══════════════════════════════════════════════╝
 ```
 
 <br>
 
-## ⚙️ How I Bring Up a ROM
+## ⚔️ Quest Log
 
 ```mermaid
 flowchart LR
-    A([📥 repo sync]) --> B[🌲 Device tree]
+    A([🌸 Sync source]) --> B[🌲 Device tree]
     B --> C[📦 Vendor blobs]
     C --> D[🐧 Kernel + defconfig]
-    D --> E{{🔨 brunch}}
-    E -->|❌ error| F[🐛 Debug logs]
+    D --> E{⚔️ Build boss}
+    E -->|💀 error| F[🔍 Read logs]
     F --> B
-    E -->|✅ success| G([🚀 Flash & share])
-    style A fill:#00A8B5,stroke:#00F7FF,color:#fff
-    style E fill:#7B2FF7,stroke:#a78bfa,color:#fff
-    style G fill:#FF0080,stroke:#ff6ab5,color:#fff
+    E -->|✨ victory| G([🚀 Flash & share])
+    style A fill:#FF6FB5,stroke:#ff9ecd,color:#fff
+    style E fill:#B388FF,stroke:#d0b8ff,color:#fff
+    style G fill:#6EC6FF,stroke:#a6dcff,color:#fff
 ```
 
 <br>
 
-## 🛠️ What I Do
+## ✨ Skills
 
 <table align="center">
   <tr>
@@ -76,7 +83,7 @@ flowchart LR
 
 <br>
 
-## 🧰 Tech Stack
+## 🎒 Inventory
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -110,44 +117,45 @@ flowchart LR
 
 <br>
 
-## 📊 Stats
+## 📊 Battle Record
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huy7684&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF0080&text_color=c9d1d9&ring_color=7B2FF7&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Huy7684&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7B2FF7&icon_color=FF0080&text_color=24292f&ring_color=7B2FF7&include_all_commits=true" height="170" alt="stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huy7684&show_icons=true&hide_border=true&bg_color=1a1226&title_color=FF9ECD&icon_color=B388FF&text_color=e8def8&ring_color=FF6FB5&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Huy7684&show_icons=true&hide_border=true&bg_color=fff5fa&title_color=D63384&icon_color=8e5be8&text_color=3b2a4a&ring_color=D63384&include_all_commits=true" height="170" alt="stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huy7684&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huy7684&layout=donut-vertical&hide_border=true&bg_color=ffffff&title_color=7B2FF7&text_color=24292f" height="170" alt="top langs" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Huy7684&hide_border=true&background=0d1117&ring=FF0080&fire=FF6A00&currStreakLabel=00F7FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e">
-    <img src="https://streak-stats.demolab.com/?user=Huy7684&hide_border=true&background=ffffff&ring=FF0080&fire=FF6A00&currStreakLabel=7B2FF7&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a" alt="streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huy7684&layout=donut-vertical&hide_border=true&bg_color=1a1226&title_color=FF9ECD&text_color=e8def8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huy7684&layout=donut-vertical&hide_border=true&bg_color=fff5fa&title_color=D63384&text_color=3b2a4a" height="170" alt="top langs" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Huy7684&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Huy7684&hide_border=true&background=1a1226&ring=FF6FB5&fire=FF9ECD&currStreakLabel=FF9ECD&currStreakNum=ffffff&sideNums=ffffff&sideLabels=e8def8&dates=b8a9d0">
+    <img src="https://streak-stats.demolab.com/?user=Huy7684&hide_border=true&background=fff5fa&ring=D63384&fire=FF6FB5&currStreakLabel=D63384&currStreakNum=3b2a4a&sideNums=3b2a4a&sideLabels=6b5a7a&dates=6b5a7a" alt="streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Huy7684&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=6">
     <img src="https://github-profile-trophy.vercel.app/?username=Huy7684&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=6" alt="trophies" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Huy7684&bg_color=0d1117&color=00F7FF&line=7B2FF7&point=FF0080&area=true&area_color=7B2FF7&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huy7684&bg_color=ffffff&color=7B2FF7&line=FF0080&point=24292f&area=true&area_color=FF0080&hide_border=true" width="95%" alt="activity" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Huy7684&bg_color=1a1226&color=FF9ECD&line=B388FF&point=FF6FB5&area=true&area_color=B388FF&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huy7684&bg_color=fff5fa&color=D63384&line=8e5be8&point=3b2a4a&area=true&area_color=FF6FB5&hide_border=true" width="95%" alt="activity" />
   </picture>
 </p>
 
 <br>
 
 <p align="center">
+  <b>頑張って！ Ganbatte!</b> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧<br>
   <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:FF0080&height=140&section=footer&text=thanks%20for%20stopping%20by&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6EC6FF&height=140&section=footer&text=Arigato%20for%20visiting%20!&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
