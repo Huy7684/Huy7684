@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=260&section=header&text=HiSiuDz%20%E3%83%BB%20%E6%A1%9C&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%BF%20Android%20ROM%20Tinkerer%20%E2%80%A2%20Linux%20Nerd%20%E2%80%A2%20Open%20Source%20%E2%9C%BF&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=280&section=header&text=HiSiuDz%20%E3%83%BB%20%E6%A1%9C&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%E2%9C%BF%20Android%20ROM%20Tinkerer%20%E2%80%A2%20Linux%20Nerd%20%E2%80%A2%20Open%20Source%20%E2%9C%BF&descAlignY=62&descSize=20&stroke=FF5D8F&strokeWidth=2" width="100%"/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=FFB7C5&center=true&vCenter=true&width=720&height=50&lines=Konnichiwa%21+I%27m+HiSiuDz+%28%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Android+ROM+Tinkerer+%E2%9C%BF+Linux+Nerd;Powered+by+coffee+%26+anime+%E2%98%95%F0%9F%8C%B8;Let%27s+build+something+cool+%D9%A9%28%E2%97%95%E2%80%BF%E2%97%95%29%DB%B6">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=D63384&center=true&vCenter=true&width=720&height=50&lines=Konnichiwa%21+I%27m+HiSiuDz+%28%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Android+ROM+Tinkerer+%E2%9C%BF+Linux+Nerd;Powered+by+coffee+%26+anime+%E2%98%95%F0%9F%8C%B8;Let%27s+build+something+cool+%D9%A9%28%E2%97%95%E2%80%BF%E2%97%95%29%DB%B6" alt="typing intro" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=600&color=FFB7C5&center=true&vCenter=true&width=720&height=50&lines=Konnichiwa%21+I%27m+HiSiuDz+%28%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Android+ROM+Tinkerer+%E2%9C%BF+Linux+Nerd;Powered+by+coffee+%26+anime+%E2%98%95%F0%9F%8C%B8;Let%27s+build+something+cool+%D9%A9%28%E2%97%95%E2%80%BF%E2%97%95%29%DB%B6">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=600&color=D63384&center=true&vCenter=true&width=720&height=50&lines=Konnichiwa%21+I%27m+HiSiuDz+%28%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Android+ROM+Tinkerer+%E2%9C%BF+Linux+Nerd;Powered+by+coffee+%26+anime+%E2%98%95%F0%9F%8C%B8;Let%27s+build+something+cool+%D9%A9%28%E2%97%95%E2%80%BF%E2%97%95%29%DB%B6" alt="typing intro" />
   </picture>
 </p>
 
@@ -18,9 +18,11 @@
   <a href="https://t.me/HiSiuDz"><img src="https://img.shields.io/badge/Contact_Me-@HiSiuDz-FFB7C5?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b192e" /></a>
 </p>
 
-<p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=64&section=header&text=%F0%9F%8C%B8%20Character%20Status%20%F0%9F%8C%B8&fontSize=26&fontColor=ffffff&fontAlignY=58&animation=twinkling" alt="Character Status" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=Cylinder&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=70&section=header&text=%F0%9F%8C%B8%20Character%20Status%20%F0%9F%8C%B8&fontSize=26&fontColor=ffffff&fontAlignY=52&animation=scaleIn&stroke=2b192e&strokeWidth=1" alt="Character Status" /></p>
 
 ```text
 ╔══════════════════════════════════════════════╗
@@ -37,9 +39,11 @@
 ╚══════════════════════════════════════════════╝
 ```
 
-<p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=64&section=header&text=%F0%9F%8C%B8%20Quest%20Log%20%F0%9F%8C%B8&fontSize=26&fontColor=ffffff&fontAlignY=58&animation=twinkling" alt="Quest Log" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=Cylinder&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=70&section=header&text=%F0%9F%8C%B8%20Quest%20Log%20%F0%9F%8C%B8&fontSize=26&fontColor=ffffff&fontAlignY=52&animation=blinking&stroke=2b192e&strokeWidth=1" alt="Quest Log" /></p>
 
 ```mermaid
 flowchart LR
@@ -50,14 +54,20 @@ flowchart LR
     E -->|💀 error| F[🔍 Read logs]
     F --> B
     E -->|✨ victory| G([🚀 Flash & share])
-    style A fill:#FFB7C5,stroke:#FF8DA1,color:#2b192e
-    style E fill:#FF8DA1,stroke:#FFB7C5,color:#fff
-    style G fill:#FF5D8F,stroke:#FFB7C5,color:#fff
+    style A fill:#FFB7C5,stroke:#FF5D8F,stroke-width:2px,color:#2b192e
+    style B fill:#2b192e,stroke:#FFB7C5,stroke-width:2px,color:#FFB7C5
+    style C fill:#2b192e,stroke:#FFB7C5,stroke-width:2px,color:#FFB7C5
+    style D fill:#2b192e,stroke:#FFB7C5,stroke-width:2px,color:#FFB7C5
+    style F fill:#2b192e,stroke:#FF5D8F,stroke-dasharray: 5 5,color:#FF8DA1
+    style E fill:#FF8DA1,stroke:#FFB7C5,stroke-width:3px,color:#fff
+    style G fill:#FF5D8F,stroke:#FFB7C5,stroke-width:3px,color:#fff
 ```
 
-<p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=64&section=header&text=%F0%9F%8C%B8%20Skills%20%F0%9F%8C%B8&fontSize=26&fontColor=ffffff&fontAlignY=58&animation=twinkling" alt="Skills" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=Cylinder&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=70&section=header&text=%F0%9F%8C%B8%20Skills%20%F0%9F%8C%B8&fontSize=26&fontColor=ffffff&fontAlignY=52&animation=scaleIn&stroke=2b192e&strokeWidth=1" alt="Skills" /></p>
 
 <table align="center">
   <tr>
@@ -76,9 +86,11 @@ flowchart LR
   </tr>
 </table>
 
-<p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=64&section=header&text=%F0%9F%8C%B8%20Inventory%20%F0%9F%8C%B8&fontSize=26&fontColor=ffffff&fontAlignY=58&animation=twinkling" alt="Inventory" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=Cylinder&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=70&section=header&text=%F0%9F%8C%B8%20Inventory%20%F0%9F%8C%B8&fontSize=26&fontColor=ffffff&fontAlignY=52&animation=twinkling&stroke=2b192e&strokeWidth=1" alt="Inventory" /></p>
 
 <details open>
 <summary><b>🌸 Languages</b></summary>
@@ -110,9 +122,11 @@ flowchart LR
 </p>
 </details>
 
-<p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=64&section=header&text=%F0%9F%8C%B8%20Battle%20Record%20%F0%9F%8C%B8&fontSize=26&fontColor=ffffff&fontAlignY=58&animation=twinkling" alt="Battle Record" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=Cylinder&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=70&section=header&text=%F0%9F%8C%B8%20Battle%20Record%20%F0%9F%8C%B8&fontSize=26&fontColor=ffffff&fontAlignY=52&animation=scaleIn&stroke=2b192e&strokeWidth=1" alt="Battle Record" /></p>
 
 <p align="center">
   <picture>
@@ -122,14 +136,19 @@ flowchart LR
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huy7684&theme=rose_pine" width="95%" alt="activity graph" />
+</p>
+
+<p align="center">
   <img src="https://ghchart.rshah.org/FF5D8F/Huy7684" width="95%" alt="contributions" />
 </p>
 
-<p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
-
 <p align="center">
-  <b>頑張って！ Ganbatte!</b> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 🌸<br>
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5D8F,50:FF8DA1,100:FFB7C5&height=140&section=footer&text=Arigato%20for%20visiting%20!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF8DA1&center=true&vCenter=true&width=600&height=40&lines=%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%EF%BC%81+Ganbatte%21+(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7+%F0%9F%8C%B8;%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds" alt="footer quote" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF5D8F,50:FF8DA1,100:FFB7C5&height=160&section=footer&text=Arigato%20for%20visiting%20!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling&stroke=FF5D8F&strokeWidth=2" width="100%"/>
