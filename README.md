@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/noobbuildxyz"><img src="https://img.shields.io/badge/Telegram-NoobBuild_Guild-FF8DA1?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b192e" /></a>
+  <a href="https://t.me/noobbuildxyz"><img src="https://img.shields.io/badge/Telegram_Group-NoobBuild-FF8DA1?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b192e" /></a>
   <a href="https://t.me/HiSiuDz"><img src="https://img.shields.io/badge/Contact_Me-@HiSiuDz-FFB7C5?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b192e" /></a>
 </p>
 
