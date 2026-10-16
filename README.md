@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://hits.sh/github.com/Huy7684.svg?style=for-the-badge&label=Profile%20Views&color=FF8DA1&labelColor=2b192e" />
   <img src="https://img.shields.io/github/followers/Huy7684?style=for-the-badge&logo=github&color=FFB7C5&labelColor=2b192e" />
-  <img src="https://img.shields.io/badge/Made%20in-Vietnam-FF5D8F?style=for-the-badge&labelColor=2b192e" />
+  <img src="https://img.shields.io/badge/Im%20from-Vietnam-FF5D8F?style=for-the-badge&labelColor=2b192e" />
 </p>
 
 <p align="center">
