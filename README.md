@@ -97,37 +97,6 @@
 
 <br>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFB7C5,100:FF5D8F&height=60&section=header&text=Wibu%20Corner%20%E2%99%A1&fontSize=24&fontColor=ffffff&fontAlignY=52" alt="Wibu Corner" /></p>
-
-<div align="center">
-
-| Word | Meaning | In my life |
-|:---:|:---:|:---:|
-| **Ganbatte** 頑張って | Do your best! | Me vs. build errors |
-| **Sugoi** すごい | Amazing! | My script finally runs |
-| **Kawaii** かわいい | Cute! | Everything pink here |
-| **Baka** ばか | Silly | The typo I spent 3 hours on |
-| **Senpai** 先輩 | Someone I look up to | Every ROM dev ever |
-| **Nani?!** なに？！ | WHAT?! | Another red build log |
-
-</div>
-
-<details>
-<summary><b>🌸 Senpai Notice Meter (click me)</b></summary>
-
-```text
- Courage         [██████████░░░░░░░░░░]  50%
- Kawaii          [████████████████████] 100%
- Noob Level      [████████████████░░░░]  80%
- Ganbaru Spirit  [████████████████████] 100%
-
- Senpai: "...who is this noob?" (・・ )?
-```
-
-</details>
-
-<br>
-
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFB7C5,100:FF5D8F&height=60&section=header&text=Battle%20Record%20%E2%99%A1&fontSize=24&fontColor=ffffff&fontAlignY=52" alt="Battle Record" /></p>
 
 <p align="center">
