@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=600&color=FFB7C5&center=true&vCenter=true&width=760&height=50&lines=Konnichiwa%21+Watashi+wa+HiSiuDz+%28%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Just+a+noob+who+can%27t+build+ROMs+yet+%28%E3%83%BB%E3%83%BB%3B%29;Learning+everyday+...+Ganbarimasu%21+%E2%9C%A7;Senpai%2C+please+notice+my+code+%28%2F%E2%89%A7%E2%96%BD%E2%89%A6%29%2F">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=600&color=D63384&center=true&vCenter=true&width=760&height=50&lines=Konnichiwa%21+Watashi+wa+HiSiuDz+%28%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Just+a+noob+who+can%27t+build+ROMs+yet+%28%E3%83%BB%E3%83%BB%3B%29;Learning+everyday+...+Ganbarimasu%21+%E2%9C%A7;Senpai%2C+please+notice+my+code+%28%2F%E2%89%A7%E2%96%BD%E2%89%A6%29%2F" alt="typing intro" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=600&color=FFB7C5&center=true&vCenter=true&width=760&height=50&lines=Konnichiwa%21+Watashi+wa+HiSiuDz+%28%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Just+a+noob+who+can%27t+build+ROMs+yet+%28%E3%83%BB%E3%83%BB%3B%29;Learning+everyday+...+Ganbarimasu%21+%E2%9C%A7;Senpai%2C+please+notice+my+code+%28%2F%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Kawaii+%E2%9C%A7+Sugoi+%E2%9C%A7+Ganbarimasu+%E2%99%A1;Sakura+falls%2C+bugs+rise+%F0%9F%8C%B8%F0%9F%90%9B">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=600&color=D63384&center=true&vCenter=true&width=760&height=50&lines=Konnichiwa%21+Watashi+wa+HiSiuDz+%28%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Just+a+noob+who+can%27t+build+ROMs+yet+%28%E3%83%BB%E3%83%BB%3B%29;Learning+everyday+...+Ganbarimasu%21+%E2%9C%A7;Senpai%2C+please+notice+my+code+%28%2F%E2%89%A7%E2%96%BD%E2%89%A6%29%2F;Kawaii+%E2%9C%A7+Sugoi+%E2%9C%A7+Ganbarimasu+%E2%99%A1;Sakura+falls%2C+bugs+rise+%F0%9F%8C%B8%F0%9F%90%9B" alt="typing intro" />
   </picture>
 </p>
 
@@ -23,7 +23,8 @@
 <p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
 
 <p align="center"><b>「 初心者 」</b> — <i>shoshinsha</i>, a beginner<br>
-<sub>♡ ゜･｡･ﾟ♡ Don't expect pro stuff here. I'm just a wibu noob trying my best ♡ ･ﾟ･｡･゜♡</sub></p>
+<sub>♡ ゜･｡･ﾟ♡ Don't expect pro stuff here. I'm just a wibu noob trying my best ♡ ･ﾟ･｡･゜♡</sub><br>
+<sub>✿ 桜の下で、いつかROMをビルドするんだ ✿<br><i>"Under the sakura, someday I'll build a ROM"</i></sub></p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=65&section=header&text=%F0%9F%8C%B8%20Character%20Status%20%F0%9F%8C%B8&fontSize=24&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Character Status" /></p>
 
@@ -48,9 +49,7 @@
 
 <p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=65&section=header&text=%F0%9F%8C%B8%20Isekai%20Quest%20Log%20%F0%9F%8C%B8&fontSize=24&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Quest Log" /></p>
-
-<p align="center"><i>"Reincarnated as a noob who doesn't know how to build ROMs" (๑•́ ₃ •̀๑)</i></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=65&section=header&text=%F0%9F%8C%B8%20Quest%20Log%20%E2%99%A1%20%F0%9F%8C%B8&fontSize=24&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Quest Log" /></p>
 
 ```mermaid
 flowchart LR
@@ -66,6 +65,44 @@ flowchart LR
     style E fill:#FFD1DC,stroke:#FF8DA1,color:#2b192e
     style G fill:#FF5D8F,stroke:#FFB7C5,color:#fff
 ```
+
+<p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=65&section=header&text=%F0%9F%8C%B8%20Wibu%20Dictionary%20%F0%9F%8C%B8&fontSize=24&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Wibu Dictionary" /></p>
+
+<div align="center">
+
+| 🌸 Word | 🎌 Meaning | 💻 In my life |
+|:---:|:---:|:---:|
+| **Ganbatte** 頑張って | Do your best! | Me vs. build errors |
+| **Sugoi** すごい | Amazing! | When my script finally runs |
+| **Kawaii** かわいい | Cute! | Everything pink in this README |
+| **Baka** ばか | Silly / dummy | The `typo` I spent 3 hours on |
+| **Senpai** 先輩 | Someone I look up to | Every ROM dev ever |
+| **Yamete** やめて | Stop! | `rm -rf` near my files |
+| **Nani?!** なに？！ | WHAT?! | Another red build log |
+
+</div>
+
+<p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFB7C5,50:FF8DA1,100:FF5D8F&height=65&section=header&text=%F0%9F%8C%B8%20Senpai%20Notice%20Me%20%F0%9F%8C%B8&fontSize=24&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Senpai Notice Me" /></p>
+
+```text
+  (ﾉ´ヮ`)ﾉ*: ･ﾟ  Senpai Notice Meter  ♡
+
+  Courage        [██████████░░░░░░░░░░]  50%
+  Kawaii         [████████████████████] 100%
+  Noob Level     [████████████████░░░░]  80%
+  Ganbaru Spirit [████████████████████] 100%
+  Coffee         [██████████████░░░░░░]  70%
+
+  ♡ Senpai: "...who is this noob?" (・・ )?
+```
+
+<p align="center">
+  <sub>( ˘ ³˘)♡ ･ﾟ✧ (✿◠‿◠) ･ﾟ✧ ٩(◕‿◕｡)۶ ･ﾟ✧ (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄) ･ﾟ✧ ヽ(>∀<☆)ノ</sub>
+</p>
 
 <p align="center">🌸 ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* ✦ ･ﾟ: *✧･ﾟ:* 🌸</p>
 
@@ -167,7 +204,8 @@ flowchart LR
 <p align="center">
   <b>頑張って！ Ganbatte!</b> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 🌸<br>
   <i>"One day I'll build my very first ROM... that's my dream!" (๑˃̵ᴗ˂̵)و ♡</i><br>
-  <sub>— HiSiuDz, level 1 noob</sub>
+  <sub>— HiSiuDz, level 1 noob</sub><br>
+  <sub>またね！ Mata ne~ ♡ 🌸 See you again! ✧</sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5D8F,50:FF8DA1,100:FFB7C5&height=160&section=footer&text=Arigato%20for%20visiting%20!%20%E2%99%A1&fontSize=24&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%"/>
